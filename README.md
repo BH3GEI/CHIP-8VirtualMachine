@@ -1,1 +1,1 @@
-# CHIP-8VirtualMachine
+# CHIP-8 Virtual Machine
