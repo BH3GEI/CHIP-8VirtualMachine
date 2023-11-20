@@ -1,7 +1,3 @@
-//
-// Created by sarbajit on 5/5/17.
-//
-
 #ifndef CHIP8_CHIP8EMULATOR_H
 #define CHIP8_CHIP8EMULATOR_H
 
